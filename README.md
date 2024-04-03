@@ -5,6 +5,8 @@ InstaNews is a modern iOS application designed to keep users informed with the l
 ## Features
 
 - **Browse News Categories:** Users can explore news articles from a variety of categories including business, technology, entertainment, sports, science, health, and more.
+
+
   <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/06e872da-6fb1-42f6-a0bf-fe005d18f2f5" width="300">
   <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/80d714b1-70b1-45e0-b775-9e0ffad24665" width="300">
 
