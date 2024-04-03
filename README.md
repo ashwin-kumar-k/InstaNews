@@ -5,12 +5,31 @@ InstaNews is a modern iOS application designed to keep users informed with the l
 ## Features
 
 - **Browse News Categories:** Users can explore news articles from a variety of categories including business, technology, entertainment, sports, science, health, and more.
-  
-- **Search Articles:** InstaNews allows users to search for specific news articles using keywords, providing them with relevant results instantly.
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/06e872da-6fb1-42f6-a0bf-fe005d18f2f5" width="300">
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/80d714b1-70b1-45e0-b775-9e0ffad24665" width="300">
 
-- **Bookmark Articles:** Users can save their favorite articles for later reference by bookmarking them within the app.
+- **Search Articles:** InstaNews allows users to search for specific news articles using keywords, providing them with relevant results instantly.
+  
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/4bb5b3c6-fcaf-447d-8fce-526c8397d16c" width="300">
+
+- **Bookmark Articles:** Users can save their favorite articles for later reference by bookmarking them within the app. Users can also edit and delete the bookmarks later on.
+  
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/4c3044e3-64ea-4d36-863f-3b1b9bae4235" width="300">
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/380da996-163d-4b36-8468-8e7820864c6e" width="300">
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/4612c520-f548-468d-b36a-3c93c14e3efe" width="300">
 
 - **Share Articles:** Sharing interesting articles with friends and family is made easy with InstaNews' built-in share functionality.
+  
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/5d2b5959-39ca-44fb-beda-619c10904787" width="300">
+
+- **Dark/Light Theme Support:** The app supports a dark/light theme, providing users with the option to switch between light and dark modes based on their preferences.
+
+  
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/fb748f94-fe29-451f-8f7b-941997c08e3a" width="300">
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/69a11bd2-47f9-4695-83bb-27d7fa867748" width="300">
+  <img src="https://github.com/ashwin-kumar-k/InstaNews/assets/44889005/af892fc8-feeb-44db-a7b9-d8453c8c99dc" width="300">
+
+
 
 ## Technologies Used
 
